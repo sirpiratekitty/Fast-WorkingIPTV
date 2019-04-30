@@ -1,23 +1,23 @@
-Weather Channel
+#EXTINF:0, Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-Bloomberg
+#EXTINF:0, Bloomberg
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
-Classic TV
+#EXTINF:0, Classic TV
 https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
-HBO
+#EXTINF:0, HBO
 http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
-NBC
+#EXTINF:0, NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
-Red Bull TV
+#EXTINF:0, Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-Showtime
+#EXTINF:0, Showtime
 http://80.80.160.168/live/7/live.m3u8
-Discovery
+#EXTINF:0, Discovery
 http://80.80.160.168/live/8/live.m3u8
-ABC News
+#EXTINF:0, ABC News
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
-Fox News
+#EXTINF:0, Fox News
 http://api.new.livestream.com/accounts/16030759/events/4495499/live.m3u8
-CBN
+#EXTINF:0, CBN
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 
