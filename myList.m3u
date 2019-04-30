@@ -1,25 +1,23 @@
-#EXTINF:0,Weather Channel
+Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:0,Bloomberg
+Bloomberg
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
-#EXTINF:0,Classic TV
+Classic TV
 https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
-#EXTINF:0,Fox5
-http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
-#EXTINF:0,HBO
+HBO
 http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
-#EXTINF:0,NBC
+NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
-#EXTINF:0, Red Bull TV
+Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:0, Showtime
+Showtime
 http://80.80.160.168/live/7/live.m3u8
-#EXTINF:0, Discovery
+Discovery
 http://80.80.160.168/live/8/live.m3u8
-#EXTINF:0, ABC News
+ABC News
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
-#EXTINF:0, Fox News
+Fox News
 http://api.new.livestream.com/accounts/16030759/events/4495499/live.m3u8
-#EXTINF:0, CBN
+CBN
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 
